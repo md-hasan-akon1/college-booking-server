@@ -1,0 +1,328 @@
+[
+    {
+      "collegeImage": "https://i.ibb.co/853NqNc/download.jpg",
+      "collegeName": "University of Science",
+      "researchNumber":10,
+      "rating":4,
+      "admissionDates": "2023-08-15",
+      "events": ["Event A", "Event B", "Event C"],
+      "researchHistory": "PhD in Computer Science",
+      "sports": ["Football", "Basketball"],
+      "admissionProcess": {
+        "application": "Submit an online application form with personal and academic details.",
+        "entranceExam": "Pass the Knowledgeville University Entrance Exam (KUEE).",
+        "academicRecords": "Provide transcripts from previous educational institutions.",
+        "recommendations": "Submit two letters of recommendation from teachers or supervisors.",
+        "statementOfPurpose": "Write a compelling Statement of Purpose (SOP) explaining your goals.",
+        "interview": "Shortlisted candidates will have an interview with the admission committee.",
+        "admissionDecision": "Applicants will be notified of their admission status via email or mail."
+      },
+      "eventsDetails": {
+        "orientation": "Orientation week will be held before the start of the academic year.",
+        "workshopsAndSeminars": "Regular workshops and seminars will be conducted throughout the year on various subjects.",
+        "conferences": "Annual academic conferences where researchers present their work.",
+        "culturalFestivals": "A week-long cultural festival celebrating the diversity of the institution.",
+        "careerFairs": "Bi-annual career fairs connecting students with potential employers.",
+        "alumniMeets": "An alumni meet every year to reconnect and share experiences."
+      },
+      "researchWorks": {
+        "researchProjects": "Faculty and students collaborate on research projects across disciplines.",
+        "publications": "Research findings are published in the University Journal of Research.",
+        "thesesAndDissertations": "Graduate students are required to submit a thesis or dissertation.",
+        "interdisciplinaryResearch": "Encouraging interdisciplinary research for innovative approaches."
+      },
+      "sportsCategories": {
+        "teamSports": ["Football,", "Basketball", "Soccer", "Volleyball", "Cricket"],
+        "individualSports": ["Athletics (Track and Field)", "Swimming", "Tennis", "Badminton", "Chess"],
+        "indoorSports": ["Table Tennis", "Indoor Basketball", "Gymnastics"],
+        "outdoorSports": ["Field Hockey", "Rugby", "Baseball", "Softball"],
+        "intramuralLeagues": ["Intramural Football League", "Intramural Basketball League"],
+        "intercollegiateCompetitions": ["Intercollegiate Athletics Meet", "Intercollegiate Soccer Championship"]
+      },
+      "sportsFacilities":{
+        "facility_name": "Tennis Courts",
+        "sports_type": "Tennis",
+        "availability": "Open to students, staff, and public",
+        "contact": "tenniscourts@xyzuniversity.edu"
+      },
+      "eventFacilities":   {
+        "facility_name": "Garden Pavilion",
+        "capacity": 150,
+        "amenities": "Lush Garden Setting,Outdoor Seating, Stage,Sound System",
+        "availability": "Weddings and outdoor events"
+      }
+    },
+    {
+      "collegeImage": "https://i.ibb.co/Yk8vK3D/images.jpg",
+      "researchNumber":12,
+      "rating":5,
+      "collegeName": "ABC University",
+      "admissionDates": "2023-08-27",
+      "events": ["Event A", "Event B", "Event C"],
+      "researchHistory": "MSc in Biology",
+      "sports": ["Tennis", "Swimming"],
+      "admissionProcess": {
+        "application": "Submit an online application form with personal and academic details.",
+        "entranceExam": "Pass the Knowledgeville University Entrance Exam (KUEE).",
+        "academicRecords": "Provide transcripts from previous educational institutions.",
+        "recommendations": "Submit two letters of recommendation from teachers or supervisors.",
+        "statementOfPurpose": "Write a compelling Statement of Purpose (SOP) explaining your goals.",
+        "interview": "Shortlisted candidates will have an interview with the admission committee.",
+        "admissionDecision": "Applicants will be notified of their admission status via email or mail."
+      },
+      "eventsDetails": {
+        "orientation": "Orientation week will be held before the start of the academic year.",
+        "workshopsAndSeminars": "Regular workshops and seminars will be conducted throughout the year on various subjects.",
+        "conferences": "Annual academic conferences where researchers present their work.",
+        "culturalFestivals": "A week-long cultural festival celebrating the diversity of the institution.",
+        "careerFairs": "Bi-annual career fairs connecting students with potential employers.",
+        "alumniMeets": "An alumni meet every year to reconnect and share experiences."
+      },
+      "researchWorks": {
+        "researchProjects": "Faculty and students collaborate on research projects across disciplines.",
+        "publications": "Research findings are published in the University Journal of Research.",
+        "thesesAndDissertations": "Graduate students are required to submit a thesis or dissertation.",
+        "interdisciplinaryResearch": "Encouraging interdisciplinary research for innovative approaches."
+      },
+      "sportsCategories": {
+        "teamSports": ["Football", "Basketball", "Soccer", "Volleyball", "Cricket"],
+        "individualSports": ["Athletics (Track and Field)", "Swimming", "Tennis", "Badminton", "Chess"],
+        "indoorSports": ["Table Tennis", "Indoor Basketball", "Gymnastics"],
+        "outdoorSports": ["Field Hockey", "Rugby", "Baseball", "Softball"],
+        "intramuralLeagues": ["Intramural Football League", "Intramural Basketball League"],
+        "intercollegiateCompetitions": ["Intercollegiate Athletics Meet", "Intercollegiate Soccer Championship"]
+      },
+      "sportsFacilities":{
+        "facility_name": "Indoor Sports Complex",
+        "sports_type": "Basketball, Volleyball, Badminton",
+        "availability": "Open to students and staff"
+      },
+        "eventFacilities":  {
+        "facility_name": "Exhibition Hall",
+        "capacity": 800,
+        "amenities":"Flexible Space,Booth Setup, Lighting, Loading Docks",
+        "availability": "Trade shows and exhibitions"
+      }
+    },
+    {
+      "collegeImage": "https://i.ibb.co/XzKDzyT/wp2468650.jpg",
+      "collegeName": "XYZ College",
+      "researchNumber":8,
+      "rating":4.5,
+      "admissionDates": "2023-09-10",
+      "events": ["Event F", "Event G", "Event H"],
+      "researchHistory": "PhD in Physics",
+      "sports": ["Athletics", "Cycling"],
+      "admissionProcess": {
+        "application": "Submit an online application form with personal and academic details.",
+        "entranceExam": "Pass the Knowledgeville University Entrance Exam (KUEE).",
+        "academicRecords": "Provide transcripts from previous educational institutions.",
+        "recommendations": "Submit two letters of recommendation from teachers or supervisors.",
+        "statementOfPurpose": "Write a compelling Statement of Purpose (SOP) explaining your goals.",
+        "interview": "Shortlisted candidates will have an interview with the admission committee.",
+        "admissionDecision": "Applicants will be notified of their admission status via email or mail."
+      },
+      "eventsDetails": {
+        "orientation": "Orientation week will be held before the start of the academic year.",
+        "workshopsAndSeminars": "Regular workshops and seminars will be conducted throughout the year on various subjects.",
+        "conferences": "Annual academic conferences where researchers present their work.",
+        "culturalFestivals": "A week-long cultural festival celebrating the diversity of the institution.",
+        "careerFairs": "Bi-annual career fairs connecting students with potential employers.",
+        "alumniMeets": "An alumni meet every year to reconnect and share experiences."
+      },
+      "researchWorks": {
+        "researchProjects": "Faculty and students collaborate on research projects across disciplines.",
+        "publications": "Research findings are published in the University Journal of Research.",
+        "thesesAndDissertations": "Graduate students are required to submit a thesis or dissertation.",
+        "interdisciplinaryResearch": "Encouraging interdisciplinary research for innovative approaches."
+      },
+      "sportsCategories": {
+        "teamSports": ["Football", "Basketball", "Soccer", "Volleyball", "Cricket"],
+        "individualSports": ["Athletics (Track and Field)", "Swimming", "Tennis", "Badminton", "Chess"],
+        "indoorSports": ["Table Tennis", "Indoor Basketball", "Gymnastics"],
+        "outdoorSports": ["Field Hockey", "Rugby", "Baseball", "Softball"],
+        "intramuralLeagues": ["Intramural Football League", "Intramural Basketball League"],
+        "intercollegiateCompetitions": ["Intercollegiate Athletics Meet", "Intercollegiate Soccer Championship"]
+      },
+      "sportsFacilities":{
+        "facility_name": "Tennis Courts",
+        "sports_type": "Tennis",
+        "availability": "Open to students, staff, and public",
+        "contact": "tenniscourts@xyzuniversity.edu"
+      },
+      "eventFacilities":   {
+        "facility_name": "Garden Pavilion",
+        "capacity": 150,
+        "amenities": "Lush Garden Setting,Outdoor Seating, Stage,Sound System",
+        "availability": "Weddings and outdoor events"
+      }
+    },
+    {
+      "collegeImage": "https://i.ibb.co/JrFmgdc/pexels-ferdous-hasan-13108628.jpg",
+      "collegeName": "City University",
+      "admissionDates": "2023-08-05",
+      "researchNumber":8,
+      "rating":3.5,
+      "events": ["Event A", "Event B", "Event C"],
+      "researchHistory": "MA in History",
+      "sports": ["Volleyball", "Badminton"],
+      "admissionProcess": {
+        "application": "Submit an online application form with personal and academic details.",
+        "entranceExam": "Pass the Knowledgeville University Entrance Exam (KUEE).",
+        "academicRecords": "Provide transcripts from previous educational institutions.",
+        "recommendations": "Submit two letters of recommendation from teachers or supervisors.",
+        "statementOfPurpose": "Write a compelling Statement of Purpose (SOP) explaining your goals.",
+        "interview": "Shortlisted candidates will have an interview with the admission committee.",
+        "admissionDecision": "Applicants will be notified of their admission status via email or mail."
+      },
+      "eventsDetails": {
+        "orientation": "Orientation week will be held before the start of the academic year.",
+        "workshopsAndSeminars": "Regular workshops and seminars will be conducted throughout the year on various subjects.",
+        "conferences": "Annual academic conferences where researchers present their work.",
+        "culturalFestivals": "A week-long cultural festival celebrating the diversity of the institution.",
+        "careerFairs": "Bi-annual career fairs connecting students with potential employers.",
+        "alumniMeets": "An alumni meet every year to reconnect and share experiences."
+      },
+      "researchWorks": {
+        "researchProjects": "Faculty and students collaborate on research projects across disciplines.",
+        "publications": "Research findings are published in the University Journal of Research.",
+        "thesesAndDissertations": "Graduate students are required to submit a thesis or dissertation.",
+        "interdisciplinaryResearch": "Encouraging interdisciplinary research for innovative approaches."
+      },
+      "sportsCategories": {
+        "teamSports": ["Football", "Basketball", "Soccer", "Volleyball", "Cricket"],
+        "individualSports": ["Athletics (Track and Field)", "Swimming", "Tennis", "Badminton", "Chess"],
+        "indoorSports": ["Table Tennis", "Indoor Basketball", "Gymnastics"],
+        "outdoorSports": ["Field Hockey", "Rugby", "Baseball", "Softball"],
+        "intramuralLeagues": ["Intramural Football League", "Intramural Basketball League"],
+        "intercollegiateCompetitions": ["Intercollegiate Athletics Meet", "Intercollegiate Soccer Championship"]
+      },
+      "sportsFacilities":{
+        "facility_name": "Indoor Sports Complex",
+        "sports_type": "Basketball, Volleyball, Badminton",
+        "availability": "Open to students and staff"
+      },
+      "eventFacilities":{
+   
+        "facility_name": "Rooftop Terrace",
+        "capacity": 100,
+        "amenities":"Scenic Views, Outdoor Seating, Canopy,Bar Counter",
+        "availability": "Outdoor events"
+      
+      }
+    },
+    {
+      "collegeImage": "https://i.ibb.co/X40VC5Y/lovepik-university-of-cambridge-in-the-setting-sun-picture-500950359.jpg",
+      "collegeName": "Eagle State College",
+      "researchNumber":10,
+      "rating":4,
+      "admissionDates": "2023-11-20",
+      "events": ["Event J", "Event K", "Event L"],
+      "researchHistory": "PhD in Economics",
+      "sports": ["Soccer", "Running"],
+      "admissionProcess": {
+        "application": "Submit an online application form with personal and academic details.",
+        "entranceExam": "Pass the Knowledgeville University Entrance Exam (KUEE).",
+        "academicRecords": "Provide transcripts from previous educational institutions.",
+        "recommendations": "Submit two letters of recommendation from teachers or supervisors.",
+        "statementOfPurpose": "Write a compelling Statement of Purpose (SOP) explaining your goals.",
+        "interview": "Shortlisted candidates will have an interview with the admission committee.",
+        "admissionDecision": "Applicants will be notified of their admission status via email or mail."
+      },
+      "eventsDetails": {
+        "orientation": "Orientation week will be held before the start of the academic year.",
+        "workshopsAndSeminars": "Regular workshops and seminars will be conducted throughout the year on various subjects.",
+        "conferences": "Annual academic conferences where researchers present their work.",
+        "culturalFestivals": "A week-long cultural festival celebrating the diversity of the institution.",
+        "careerFairs": "Bi-annual career fairs connecting students with potential employers.",
+        "alumniMeets": "An alumni meet every year to reconnect and share experiences."
+      },
+      "researchWorks": {
+        "researchProjects": "Faculty and students collaborate on research projects across disciplines.",
+        "publications": "Research findings are published in the University Journal of Research.",
+        "thesesAndDissertations": "Graduate students are required to submit a thesis or dissertation.",
+        "interdisciplinaryResearch": "Encouraging interdisciplinary research for innovative approaches."
+      },
+      "sportsCategories": {
+        "teamSports": ["Football", "Basketball", "Soccer", "Volleyball", "Cricket"],
+        "individualSports": ["Athletics (Track and Field)", "Swimming", "Tennis", "Badminton", "Chess"],
+        "indoorSports": ["Table Tennis", "Indoor Basketball", "Gymnastics"],
+        "outdoorSports": ["Field Hockey", "Rugby", "Baseball", "Softball"],
+        "intramuralLeagues": ["Intramural Football League", "Intramural Basketball League"],
+        "intercollegiateCompetitions": ["Intercollegiate Athletics Meet", "Intercollegiate Soccer Championship"]
+      },
+      "sportsFacilities":{
+        "facility_name": "Tennis Courts",
+        "sports_type": "Tennis",
+        "availability": "Open to students, staff, and public",
+        "contact": "tenniscourts@xyzuniversity.edu"
+      }, 
+       "eventFacilities":  {
+        "facility_name": "Exhibition Hall",
+        "capacity": 800,
+        "amenities":"Flexible Space,Booth Setup, Lighting, Loading Docks",
+        "availability": "Trade shows and exhibitions"
+      }
+    },
+    {
+      "collegeImage": "https://i.ibb.co/cT0Nsnz/1209530.jpg",
+      "collegeName": "Sunset University",
+      "admissionDates": "2023-09-12",
+      "researchNumber":7,
+      "rating":3,
+      "events": ["Event A", "Event B", "Event C"],
+      "researchHistory": "BSc in Chemistry",
+      "sports": ["Table Tennis", "Hiking"],
+      "admissionProcess": {
+        "application": "Submit an online application form with personal and academic details.",
+        "entranceExam": "Pass the Knowledgeville University Entrance Exam (KUEE).",
+        "academicRecords": "Provide transcripts from previous educational institutions.",
+        "recommendations": "Submit two letters of recommendation from teachers or supervisors.",
+        "statementOfPurpose": "Write a compelling Statement of Purpose (SOP) explaining your goals.",
+        "interview": "Shortlisted candidates will have an interview with the admission committee.",
+        "admissionDecision": "Applicants will be notified of their admission status via email or mail."
+      },
+      "eventsDetails": {
+        "orientation": "Orientation week will be held before the start of the academic year.",
+        "workshopsAndSeminars": "Regular workshops and seminars will be conducted throughout the year on various subjects.",
+        "conferences": "Annual academic conferences where researchers present their work.",
+        "culturalFestivals": "A week-long cultural festival celebrating the diversity of the institution.",
+        "careerFairs": "Bi-annual career fairs connecting students with potential employers.",
+        "alumniMeets": "An alumni meet every year to reconnect and share experiences."
+      },
+      "researchWorks": {
+        "researchProjects": "Faculty and students collaborate on research projects across disciplines.",
+        "publications": "Research findings are published in the University Journal of Research.",
+        "thesesAndDissertations": "Graduate students are required to submit a thesis or dissertation.",
+        "interdisciplinaryResearch": "Encouraging interdisciplinary research for innovative approaches."
+      },
+      "sportsCategories": {
+        "teamSports": ["Football", "Basketball", "Soccer", "Volleyball", "Cricket"],
+        "individualSports": ["Athletics (Track and Field)", "Swimming", "Tennis", "Badminton", "Chess"],
+        "indoorSports": ["Table Tennis", "Indoor Basketball", "Gymnastics"],
+        "outdoorSports": ["Field Hockey", "Rugby", "Baseball", "Softball"],
+        "intramuralLeagues": ["Intramural Football League", "Intramural Basketball League"],
+        "intercollegiateCompetitions": ["Intercollegiate Athletics Meet", "Intercollegiate Soccer Championship"]
+      },
+      "sportsFacilities":{
+        "facility_name": "Indoor Sports Complex",
+        "sports_type": "Basketball, Volleyball, Badminton",
+        "availability": "Open to students and staff"
+      },
+      "eventFacilities":{
+   
+        "facility_name": "Rooftop Terrace",
+        "capacity": 100,
+        "amenities":"Scenic Views, Outdoor Seating, Canopy,Bar Counter",
+        "availability": "Outdoor events"
+      
+      }
+    }
+  ]
+
+
+
+
+
+
+
